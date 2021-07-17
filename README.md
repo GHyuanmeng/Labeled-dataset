@@ -9,3 +9,4 @@ The follow arepublicly available datasets with huanman eyetracking annotations.
 ###### 5.[ETMD](http://cvsp.cs.ntua.gr/research/aveyetracking/)
 You can also get all of the above datasets directly from [STAViS](http://cvsp.cs.ntua.gr/research/stavis/data/).
 The dataset that we have marked for the above data set whether the audio is consistent with the video will be provided([Baidu Netdisk](https://pan.baidu.com/s/1fx7EuJ_uIvQOlxAh0BrO8w), code:ym01)
+The the division document of training set and test set and the saliency maps are also available([Baidu Netdisk](https://pan.baidu.com/s/1fLEXnraHp7OJfdfcs2uaFw), code:ym01)
